@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohd-faizankhan" alt="mohd-faizankhan" /></a> </p>
 
-- 🔭 I’m currently working on **Java Full-Stack**
-
-- 🌱 I’m currently learning **Spring Boot, React**
-
 - 💬 Ask me about **Java Full-Stack Development**
 
 - 📫 How to reach me **kmohdfaizan99@gmail.com**
